@@ -66,7 +66,7 @@ systemctl start nexus
 
 systemctl enable nexus
 
-# Browse URL - <Server IP>:8081
+# Browse URL - Server IP:8081
 
 Login - admin
 for password browse this path - cat /opt/nexus/sonatype-work/nexus3/admin.password
