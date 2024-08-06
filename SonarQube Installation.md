@@ -1,3 +1,4 @@
+# To install SonarQube we will need OpenJDK-17, Postgresql , SonarQube package, Nginx
 # Create Ubuntu Linux instance in Linux
 # Take sysctl.conf file bakup
 cp /etc/sysctl.conf /root/sysctl.conf_backup
